@@ -1,30 +1,29 @@
-# 🤖 Kotovich AI — AI Automation & Business Optimization
+#  Kotovich AI — AI Automation & Business Optimization
 
 Офіційний двомовний сайт **Юри Котовича / Kotovich AI** (українська + англійська версії).
 
 Ми допомагаємо бізнесу впроваджувати автономних AI-агентів, проводити AI-аудит процесів і автоматизувати рутину (CRM, ERP, BAS/1С) без роздування штату і зайвої складності.
 
-🌐 **Живий сайт:** [kotovich.uk](https://kotovich.uk)  
-📝 **Блог:** [blog.kotovich.uk](https://blog.kotovich.uk)  
-📢 **Telegram-канал:** [t.me/aibiz_ua](https://t.me/aibiz_ua)  
-📩 **Контакт:** ai@kotovich.uk
+ **Живий сайт:** [kotovich.uk](https://kotovich.uk)  
+ **Блог:** [blog.kotovich.uk](https://blog.kotovich.uk)  
+ **Telegram-канал:** [t.me/aibiz_ua](https://t.me/aibiz_ua)  
+ **Контакт:** ai@kotovich.uk
 
 ---
 
-## 🚀 Що ми робимо
-- Автономні AI-агенти та мультиагентні системи під конкретні ролі
-- Інтеграція ШІ в CRM / ERP / BAS (1С)
-- AI-аудит операційних процесів + розрахунок ROI
-- Telegram-боти та квіз-воронки під ключ
-- Практичні AI-рішення без «магії» — тільки результат
+##  Що ми робимо
+- Telegram-боти та AI-агенти для прийому заявок і відповідей клієнтам 24/7
+- Інтеграція заявок із CRM
+- Автоматизація відгуків і повторних продажів
+- Аудит процесів: де бізнес втрачає заявки й час
 
-## ⚡ Технічні особливості сайту
+##  Технічні особливості сайту
 - Чистий HTML5 + CSS3 + Vanilla JS (максимальна швидкість і високі Core Web Vitals)
 - Cloudflare Pages + Functions (serverless)
 - Дві повноцінні мовні версії (UA / EN)
 - Оптимізовано під SEO та мобільні пристрої
 
-## 📂 Структура репозиторію
+##  Структура репозиторію
 - `index.html` — головна сторінка (українська)
 - `en/` — англомовна версія
 - `functions/` — Cloudflare Functions (обробка заявок тощо)

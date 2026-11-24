@@ -30,6 +30,6 @@
 - `style.css` + `app.js` — спільні стилі та логіка
 - `privacy.html` — політика конфіденційності
 
-## 🛠 Стек
+##  Стек
 Frontend: HTML5, CSS3, Vanilla JavaScript  
 Hosting & Edge: Cloudflare Pages + Workers/Functions

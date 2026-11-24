@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🤖 Kotovich AI — AI Automation & Business Optimization
 
-<!--
-**kotovich-uk/kotovich-uk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Офіційний двомовний сайт **Юри Котовича / Kotovich AI** (українська + англійська версії).
 
-Here are some ideas to get you started:
+Ми допомагаємо бізнесу впроваджувати автономних AI-агентів, проводити AI-аудит процесів і автоматизувати рутину (CRM, ERP, BAS/1С) без роздування штату і зайвої складності.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Живий сайт:** [kotovich.uk](https://kotovich.uk)  
+📝 **Блог:** [blog.kotovich.uk](https://blog.kotovich.uk)  
+📢 **Telegram-канал:** [t.me/aibiz_ua](https://t.me/aibiz_ua)  
+📩 **Контакт:** ai@kotovich.uk
+
+---
+
+## 🚀 Що ми робимо
+- Автономні AI-агенти та мультиагентні системи під конкретні ролі
+- Інтеграція ШІ в CRM / ERP / BAS (1С)
+- AI-аудит операційних процесів + розрахунок ROI
+- Telegram-боти та квіз-воронки під ключ
+- Практичні AI-рішення без «магії» — тільки результат
+
+## ⚡ Технічні особливості сайту
+- Чистий HTML5 + CSS3 + Vanilla JS (максимальна швидкість і високі Core Web Vitals)
+- Cloudflare Pages + Functions (serverless)
+- Дві повноцінні мовні версії (UA / EN)
+- Оптимізовано під SEO та мобільні пристрої
+
+## 📂 Структура репозиторію
+- `index.html` — головна сторінка (українська)
+- `en/` — англомовна версія
+- `functions/` — Cloudflare Functions (обробка заявок тощо)
+- `style.css` + `app.js` — спільні стилі та логіка
+- `privacy.html` — політика конфіденційності
+
+## 🛠 Стек
+Frontend: HTML5, CSS3, Vanilla JavaScript  
+Hosting & Edge: Cloudflare Pages + Workers/Functions

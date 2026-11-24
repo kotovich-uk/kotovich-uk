@@ -4,7 +4,7 @@
 
 Ми допомагаємо бізнесу впроваджувати автономних AI-агентів, проводити AI-аудит процесів і автоматизувати рутину (CRM, ERP, BAS/1С) без роздування штату і зайвої складності.
 
- **Живий сайт:** [kotovich.uk](https://kotovich.uk)  
+ **Сайт:** [kotovich.uk](https://kotovich.uk)  
  **Блог:** [blog.kotovich.uk](https://blog.kotovich.uk)  
  **Telegram-канал:** [t.me/aibiz_ua](https://t.me/aibiz_ua)  
  **Контакт:** ai@kotovich.uk
